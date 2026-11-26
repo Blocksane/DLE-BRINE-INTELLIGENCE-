@@ -1,0 +1,22 @@
+F1 rows 4749 pos70 498 pos150 168
+F2 rows 2283 pos70 389 pos150 120
+F1 V3 held-out basins: 19 rows tested: 4419
+F1 V3 done 69
+F1 V4 done 106
+F2 V3 held-out basins: 13 rows tested: 2165
+F2 V3 done 152
+F2 V4 done 186
+T1 shuffled-label pooled AUCs: {'AUC_p70_logit': np.float64(0.504), 'AUC_p70_hgb': np.float64(0.525), 'AUC_p150_logit': np.float64(0.526), 'AUC_p150_hgb': np.float64(0.517)}
+T2 folds checked: 52
+DONE 199 s
+F1 rows 4749 pos70 498 pos150 168
+F2 rows 2283 pos70 389 pos150 120
+F1 V3 held-out basins: 19 rows tested: 4419
+F1 V3 done 69
+F1 V4 done 105
+F2 V3 held-out basins: 13 rows tested: 2165
+F2 V3 done 149
+F2 V4 done 183
+T1 shuffled-label pooled AUCs: {'AUC_p70_logit': np.float64(0.504), 'AUC_p70_hgb': np.float64(0.525), 'AUC_p150_logit': np.float64(0.526), 'AUC_p150_hgb': np.float64(0.517)}
+T2 folds checked: 52
+DONE 196 s

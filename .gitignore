@@ -1,0 +1,7 @@
+*.csv.gz
+stage*.csv
+modelling_table*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+!results/*.csv
